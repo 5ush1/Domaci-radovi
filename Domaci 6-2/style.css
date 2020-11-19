@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.background-img{
+	background-image: url('fotelja.jpg');
+	  height: 100%;   
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+}
+.height-header{
+	height: 300px;
+}
