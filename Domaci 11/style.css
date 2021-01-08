@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.background-img{
+	background-image: url('Slike/fotelja.jpg');
+	  height: 100%;   
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+}
+.height-header{
+	height: 300px;
+}
+.slika{
+	height: 150px;
+	width: 100px;
+}
+.div-proizvod{
+	height: 230px;
+	width: 200px;
+}
